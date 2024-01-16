@@ -8,7 +8,7 @@ Ian Frederick Wijaya (32210079)
 
 ### App Preview
 
-![preview_video](./preview_video.mp4) 
+https://github.com/KentChristopherr/flutter_news_app/assets/151113017/b546754c-e910-4f40-b362-72fd824fbe26
 
 ### NewsAPI
 
