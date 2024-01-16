@@ -2,8 +2,8 @@
 Flutter Project for News Headlines using REST API for News by NewsAPI.
 
 ### Made by Kelompok 2
-Kent Christopher     (32210101)
-Andy Kho             (32210081)
+Kent Christopher     (32210101),
+Andy Kho             (32210081),
 Ian Frederick Wijaya (32210079)
 
 ### App Preview
